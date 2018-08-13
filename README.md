@@ -1,2 +1,1 @@
-# test
-review lai kien thuc
+day la nhanh con nhe
